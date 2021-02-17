@@ -1,4 +1,4 @@
-# firefly-ids
+# Firefly IDS
 Firefly inspired IDS for Nature-Inspired Cyber Security
 
 Research Code **[WIP]**.
