@@ -4,7 +4,7 @@ Firefly inspired IDS for Nature-Inspired Cyber Security
 
 ### Contents
 1. Docs :heavy_check_mark:
-    1. image
+    1. Image
 2. Experiment Results :heavy_check_mark:
     1. Architecture
     2. HF
@@ -19,6 +19,6 @@ Firefly inspired IDS for Nature-Inspired Cyber Security
 ---
 ##### Note -
 
-:heavy_exclamation_mark: paper's link / DOI and citation data will be updated after publication.
+:heavy_exclamation_mark: Paper's link / DOI and citation data will be updated after publication.
 
-:bangbang: This project is a result of our research on NICS, Code will be available after paper publication.
+:bangbang: This project is a result of our research on NICS, the code will be available after paper publication.
