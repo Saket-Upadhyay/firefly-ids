@@ -4,11 +4,20 @@ Firefly inspired IDS for Nature-Inspired Cyber Security
 
 ### Contents
 1. Docs :heavy_check_mark:
+    1. image
 2. Experiment Results :heavy_check_mark:
+    1. Architecture
+    2. HF
+    3. Scene 1
+    4. Scene 2
 3. Paper :heavy_exclamation_mark:
 4. Code :bangbang:
+5. Data :heavy_check_mark:
+    1. Attack
+    2. Normal
 
 ---
+##### Note -
 
 :heavy_exclamation_mark: paper's link / DOI and citation data will be updated after publication.
 
