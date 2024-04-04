@@ -1,8 +1,6 @@
 # Paper
 
-[WEB](https://www.mdpi.com/2227-9717/11/3/715)
-
-[PDF](https://saketupadhyay.com/rpapers/pdfs/saketfirefly.pdf)
+Get the [PDF](https://saketupadhyay.com/rpapers/pdfs/saketfirefly.pdf), or visit MDPI on [WEB](https://www.mdpi.com/2227-9717/11/3/715).
 
 ```bibtex
 @Article{pr11030715,
@@ -20,3 +18,5 @@ DOI = {10.3390/pr11030715}
 }
 
 ```
+
+![](../docs/image/processes-11-00715.png)
